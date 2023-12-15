@@ -4,6 +4,7 @@
 2. Bard: http://bard.google.com
 3. Hugging chat: http://huggingface.co
 
+1. 
 2. Content creation
 1. Jasper: http://www.jasper.ai
 2. Writesonic: htpps://writesonic.com
