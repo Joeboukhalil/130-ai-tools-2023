@@ -53,13 +53,13 @@
 2. Transcription and meeting assistants
 3. Fireflies: https://www.fireflies.ai
 4. Airgram: https://www.airgram.io
-5. Krisp: https//krisp.ai
+5. Krisp: https://krisp.ai
 
 1.
 2. Scheduling
 3. Reclaim: https://reclaim.ai
 4. Clockwise: https://www.getclockwise.com
-5. Motion: https:// ai.motion.com>company
+5. Motion: https://ai.motion.com>company
 
 1.
 2. Email inbox management
@@ -74,4 +74,16 @@
 
 1.
 2. Research
-3. Genei 
+3. Genei: https://www.genei.io
+
+1.
+2. 3d modeling
+3. Spline AI: https://spline.design>ai
+4. 3DFY: https://3dfy.ai
+5. Meshcapade: https://meshcapade.com
+6. Point-E: hppts://openai.com>research>point-e
+7. Tafi: https://www.maketafi.com>ai
+
+1.
+2. Ai agents
+3. 
