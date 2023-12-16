@@ -49,7 +49,13 @@
 2. note-taking
 3. Mem: https://mem.ai
 
-1. Transcription and meeting assistants
-2. Fireflies: https://www.fireflies.ai
+1.
+2. Transcription and meeting assistants
+3. Fireflies: https://www.fireflies.ai
+4. Airgram: https://www.airgram.io
+5. Krisp: https//krisp.ai
+
+1.
+2. Scheduling
 3. 
 
