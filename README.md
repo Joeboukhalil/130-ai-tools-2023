@@ -28,12 +28,28 @@
 8. Invideo: https://invideo.io
 9. Fliki: https://fliki.ai
 10. Lumen 5: https://lumen5.com
-11. Dumme: hppts://dumme.com
+11. Dumme: https://dumme.com
 12. Gen-2 by runway: https://runwayml.com
 13. Unscreen: https://unscreen.com
 14. Nova ai: https//novaapp.ai
+15. Go Charlie: https://gocharlie.ai
 
 1.
 2. Image generation
 3. DALL-E 2: https://openAI.com>dall-e-2
-4. 
+4. Midjourney: https://www.midjourney.com
+5. Stable diffusion: https://stablediffusionweb.com
+6. Go charlie: https://goCharlie.ai
+7. Neural love: https://neural.love
+8. Illustroke: https://illustroke.com
+9. Getimg: https://www.getimg.ai
+10. Jasper: https://www.jasper.ai
+
+1.
+2. note-taking
+3. Mem: https://mem.ai
+
+1. Transcription and meeting assistants
+2. Fireflies: https://www.fireflies.ai
+3. 
+
