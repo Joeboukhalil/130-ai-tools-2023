@@ -63,4 +63,15 @@
 
 1.
 2. Email inbox management
-3. 
+3. Sanebox: https://try.sanwbox.com
+4. Emailtree: https://emailtree.ai
+
+1.
+2. Slide decks and presentation
+3. Decktopus: https://decktopus.com
+4. Beautiful ai: https://www.beautiful.ai
+5. Slidesgo: https://slidesgo.com
+
+1.
+2. Research
+3. Genei 
