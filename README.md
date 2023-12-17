@@ -95,7 +95,7 @@
 3. Spline AI: https://spline.design>ai
 4. 3DFY: https://3dfy.ai
 5. Meshcapade: https://meshcapade.com
-6. Point-E: hppts://openai.com>research>point-e
+6. Point-E: https://openai.com>research>point-e
 7. Tafi: https://www.maketafi.com>ai
 
 1.
@@ -233,4 +233,12 @@
 
 1.
 2. Job hiring
-3. JD Generator: https://
+3. Workable: https://workable.com>job-description-generator
+4. Recooty: https://recooty.com>tools>job-description-generator
+5. Hirex.ai: https://www.hirex.ai
+6. Unboxable: https://www.unboxable.com
+
+1.
+2. Companies duties
+3. Breadclumbs reveal: https://Breadclumbs.io>reveal
+4. Fire flies : https://fireflies.ai
