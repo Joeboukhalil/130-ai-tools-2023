@@ -102,7 +102,7 @@
 3. AIAgent: https://aiagent.app
 4. AgentGPT: https://agentgpt.reworkd.ai
 5. HyperWrite: https://hyperwriteai.com
-6. Chatfuel AI: https.//chatfuel.com>lite
+6. Chatfuel AI: https://chatfuel.com>lite
 
 1.
 2. Automation
@@ -111,5 +111,21 @@
 1.
 2. Graphic design
 3. Canva Pro: https://www.canva.com>pro
+
+1.
+2. Transcribe ai
+3. Otter.ai: https://otter.ai
+
+1.
+2. PDF summarization
+3. Chatpdf: https//www.chatpdf.com
+
+1.
+2. Project management tool
+3. Tara.ai: https//tara.ai
+
+1.
+2. Adobe creative suite
+3. Adobe sensei: https://www.adobe.com>sensei
 
 1. 
