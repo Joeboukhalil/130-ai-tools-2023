@@ -181,8 +181,9 @@
 2. Improve SaaS marketing
 3. Elise AI: https://www.eliseai.com
 
-1. Real estate
-2. Sofabrain.ai: https://sofabrain.com
+1.
+2. Real estate
+3. Sofabrain.ai: https://sofabrain.com
 
 1.
 2. Marketing and social media
@@ -234,9 +235,8 @@
 1.
 2. Job hiring
 3. Workable: https://workable.com>job-description-generator
-4. Recooty: https://recooty.com>tools>job-description-generator
-5. Hirex.ai: https://www.hirex.ai
-6. Unboxable: https://www.unboxable.com
+4. Hirex.ai: https://www.hirex.ai
+5. Unboxable: https://www.unboxable.com
 
 1.
 2. Companies duties
