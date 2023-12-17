@@ -179,4 +179,16 @@
 
 1.
 2. Improve SaaS marketing
-3. 
+3. Elise AI: https://www.eliseai.com
+
+1. Real estate
+2. Sofabrain.ai: https://sofabrain.com
+
+1.
+2. Marketing and social media
+3. Repurpose: https://repurpose.io
+4. Ad creative: https://www.aicreative.ai
+5. Jasper: https://www.jasper.ai
+6. Ravyn: https://ravyn.app
+
+1. 
