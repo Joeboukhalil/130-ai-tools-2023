@@ -191,4 +191,28 @@
 5. Jasper: https://www.jasper.ai
 6. Ravyn: https://ravyn.app
 
-1. 
+1.
+2. Website builder
+3. 60sec.site: https://60sec.site
+4.  Appiepie: https://appypie.com
+5.  10web: https://10web.io
+6.  Algorithm-driven design: https://algorithms.design
+
+1.
+2. App builder
+3. Appypie: https://appypie.com
+
+1.
+2. Script writing
+3. Rewind AI: https://www.rewind.ai
+4. Lekhak: https://lekhak.ai
+
+1.
+2. Build machine learning
+3. Gradient: https://www.gradientai.com
+4. Bananas: https://bananas.ai
+5. Code amigo: https://codeamigo.dev
+
+1.
+2. API for ai
+3. 
