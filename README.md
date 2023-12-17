@@ -166,4 +166,17 @@
 
 1.
 2. Image branding and illustration
+3. Flair: https://flair.ai
+4. Stockimg: https://stockimg.ai
+5. Illustroke: https://illustroke.com
+6. Look AI: https://aetsoft.net>product
+
+1.
+2. Productivity ai tools
+3. Puzzle AI: https://www.puzzlelabs.ai
+4. Theresanaiforthat: https://theresanaiforthat.com
+5. Otter: https://otter.ai
+
+1.
+2. Improve SaaS marketing
 3. 
