@@ -99,4 +99,17 @@
 
 1.
 2. Ai agents
-3. 
+3. AIAgent: https://aiagent.app
+4. AgentGPT: https://agentgpt.reworkd.ai
+5. HyperWrite: https://hyperwriteai.com
+6. Chatfuel AI: https.//chatfuel.com>lite
+
+1.
+2. Automation
+3. Zapier: https://www.zapier.com
+
+1.
+2. Graphic design
+3. Canva Pro: https://www.canva.com>pro
+
+1. 
