@@ -88,6 +88,7 @@
 4. Elicit: https://elicit.com
 5. TrinkaAI: https://www.trinka.ai
 6. Open read: https://www.openread.academy
+7. 
 
 1.
 2. 3d modeling
@@ -142,3 +143,8 @@
 8. Rytr: https://www.rytr.me
 
 1.
+2. programming tools
+3. Github copilot: https://github.com>features>copilot
+4. AI code reviewer: https://ai-code-reviewer.com
+5. AI code mentor: https://code-mentor.ai
+6. Code amigo: https://codeamigo.dev
