@@ -1,4 +1,4 @@
-# 140-best-ai-tools-2023-
+# best-130-ai-tools-2023-
 1. Chatbots
 1. Chatgpt: https://chat.openai.com
 2. Bard: https://bard.google.com
