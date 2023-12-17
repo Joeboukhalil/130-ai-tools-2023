@@ -227,5 +227,10 @@
 4. Kobra: https://openfuture.ai>tool>kobra
 5. Gajix: https://gajix.com
 
-1. Ai messenger
-2. 
+1.
+2. Ai messenger
+3. Personal.ai: https://www.personal.ai
+
+1.
+2. Job hiring
+3. JD Generator: https://
