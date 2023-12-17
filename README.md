@@ -1,12 +1,12 @@
 # 140-best-ai-tools-2023-
 1. Chatbots
-1. Chatgpt: http://chat.openai.com
-2. Bard: http://bard.google.com
-3. Hugging chat: http://huggingface.co
+1. Chatgpt: https://chat.openai.com
+2. Bard: https://bard.google.com
+3. Hugging chat: https://huggingface.co>chat
 
 1. 
 2. Content creation
-1. Jasper: http://www.jasper.ai
+1. Jasper: https://www.jasper.ai
 2. Writesonic: https://writesonic.com
 3. Copyai: https://www.copy.ai
 4. Anyword: https://www.anyword.com
@@ -148,3 +148,14 @@
 4. AI code reviewer: https://ai-code-reviewer.com
 5. AI code mentor: https://code-mentor.ai
 6. Code amigo: https://codeamigo.dev
+7. Figstack: https://www.figstack.com
+8. Duino code generator: https://www.duinocodegenerator.com
+9. Spellbox: https://spellbox.app
+10. aiXcoder: https://www.aixcoder.com>en
+11. TabNine: https://www.tabnine.com
+12. Blackbox: https://www.blackbox.ai
+13. Magify.design: https://www.magify.design
+
+1.
+2. Music and sound ai tools
+3. 
