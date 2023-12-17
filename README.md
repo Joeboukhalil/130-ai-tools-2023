@@ -51,6 +51,9 @@
 8. Illustroke: https://illustroke.com
 9. Getimg: https://www.getimg.ai
 10. Jasper: https://www.jasper.ai
+11. Nightcafe: https://creator.nightcafe.studio
+12. Bluewillow: https://www.bluewillow.ai
+13. Stockimg: https://stockimg.ai
 
 1.
 2. note-taking
@@ -82,6 +85,9 @@
 1.
 2. Research
 3. Genei: https://www.genei.io
+4. Elicit: https://elicit.com
+5. TrinkaAI: https://www.trinka.ai
+6. Open read: https://www.openread.academy
 
 1.
 2. 3d modeling
