@@ -158,4 +158,12 @@
 
 1.
 2. Music and sound ai tools
+3. Krisp: https://krisp.ai
+4. Play.ht: https://play.ht
+5. Beatoven: https://www.beatoven.ai
+6. Mubert: https://mubert.com
+7. Podcastle: https://podcastle.ai
+
+1.
+2. Image branding and illustration
 3. 
