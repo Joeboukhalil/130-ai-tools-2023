@@ -215,4 +215,17 @@
 
 1.
 2. API for ai
-3. 
+3. Assembly AI: https://www.assemblyai.com
+
+1.
+2. Color screen heme generator
+3. Polarite.app: https://www.polarite.app
+
+1.
+2. Learning
+3. Mathly: https://mathly.webflow.io
+4. Kobra: https://openfuture.ai>tool>kobra
+5. Gajix: https://gajix.com
+
+1. Ai messenger
+2. 
