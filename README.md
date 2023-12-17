@@ -1,4 +1,4 @@
-# 140-ai-tools-2023-
+# 140-best-ai-tools-2023-
 1. Chatbots
 1. Chatgpt: http://chat.openai.com
 2. Bard: http://bard.google.com
@@ -11,6 +11,7 @@
 3. Copyai: https://www.copy.ai
 4. Anyword: https://www.anyword.com
 5. Inkforall: https://inkforall.com
+6. Grammarlygo: https://www.grammarly.com>ai
 
 1.
 2. grammar checkers and rewording tools
@@ -33,6 +34,12 @@
 13. Unscreen: https://unscreen.com
 14. Nova ai: https://novaapp.ai
 15. Go Charlie: https://gocharlie.ai
+16. Reface: face swap video: https://reface.ai
+17. Topaz: https://www.topazlabs.com
+18. Aimages: https://aimages.com
+19. Rawshorts: https://www.rowshorts.com
+20. Powtoon: https://www.powtoon.com>powtton
+21. Deepbrain ai: https://www.deepbrain.io 
 
 1.
 2. Image generation
