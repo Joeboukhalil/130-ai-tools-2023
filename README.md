@@ -122,10 +122,23 @@
 
 1.
 2. Project management tool
-3. Tara.ai: https//tara.ai
+3. Tara.ai: https://tara.ai
 
 1.
 2. Adobe creative suite
 3. Adobe sensei: https://www.adobe.com>sensei
 
-1. 
+1.
+2. Meeting AI
+3. Zoom IQ: https://www.zoom.com>zoom-ai-companion
+
+1.
+2. Seo
+3. Surfer Seo: https://www.surferseo.com
+4. Semrush: https://www.semrush.com
+5. Morning score: https://www.morningscore.io
+6. Seo content assistant: https://semrush.com>swa
+7. Quick creator: https://quickcreator.io
+8. Rytr: https://www.rytr.me
+
+1.
